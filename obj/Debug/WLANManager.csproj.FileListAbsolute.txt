@@ -1,0 +1,9 @@
+D:\我的文档\c#\WLANManager\WLANManager\bin\Debug\WLANManager.exe.config
+D:\我的文档\c#\WLANManager\WLANManager\bin\Debug\WLANManager.exe
+D:\我的文档\c#\WLANManager\WLANManager\bin\Debug\WLANManager.pdb
+D:\我的文档\c#\WLANManager\WLANManager\obj\Debug\WLANManager.csprojResolveAssemblyReference.cache
+D:\我的文档\c#\WLANManager\WLANManager\obj\Debug\WLANManager.Form1.resources
+D:\我的文档\c#\WLANManager\WLANManager\obj\Debug\WLANManager.Properties.Resources.resources
+D:\我的文档\c#\WLANManager\WLANManager\obj\Debug\WLANManager.csproj.GenerateResource.Cache
+D:\我的文档\c#\WLANManager\WLANManager\obj\Debug\WLANManager.exe
+D:\我的文档\c#\WLANManager\WLANManager\obj\Debug\WLANManager.pdb
